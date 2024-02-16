@@ -1,7 +1,7 @@
 import sys
 
 def dog():
-    print('Baw')
+    print('BawBaw')
 
 def default():
     print('Hello')
